@@ -1,0 +1,10 @@
+12:15:49 **** Incremental Build of configuration Debug for project weak3 ****
+make -j8 all 
+arm-none-eabi-size  weak3.elf 
+   text	   data	    bss	    dec	    hex	filename
+    984	      0	   1568	   2552	    9f8	weak3.elf
+Finished building: default.size.stdout
+ 
+
+12:15:50 Build Finished. 0 errors, 0 warnings. (took 211ms)
+
